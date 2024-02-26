@@ -1,0 +1,18 @@
+[
+    {
+        "package": "freesurfer.lme",
+        "url": "https://github.com/capro-uio/freesurfer.lme"
+    },
+    {
+        "package": "nettskjemar",
+        "url": "https://github.com/capro-uio/nettskjemar"
+    },
+    {
+        "package": "uiothemes",
+        "url": "https://github.com/capro-uio/uiothemes"
+    },
+    {
+        "package": "tsdrtools",
+        "url": "https://github.com/capro-uio/tsdrtools"
+    }
+]
